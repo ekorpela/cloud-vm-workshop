@@ -13,7 +13,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 9-12 Presentations, discussion and hands-ons
 
-* Vera Hansper, Kalle Happonen, Aleksi Kallio, Seija Sirkiä (ELIXIR-FI)*
+*Vera Hansper, Kalle Happonen, Aleksi Kallio, Seija Sirkiä (ELIXIR-FI)*
 - Hosting virtual machines in cloud
 - What is a VM and a hypervisor
 - What is a VMI, how to make one and how to use it
@@ -30,7 +30,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (ELIXIR-IT)* 
 
-- Using clouds and VMs in bioinformatics training in Sweden. Bioimg.org, a catalogue of virtual machine images for life sciences. *Ola Spjuth, UPPMAX*  
+- Using clouds and VMs in bioinformatics training in Sweden. Bioimg.org, a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, Sweden)*  
 
 - EGI FedCloud for bioinformatics. *Diego Scardaci (EGI) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* 
 
