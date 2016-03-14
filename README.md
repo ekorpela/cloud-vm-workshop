@@ -32,48 +32,39 @@ Vera Hansper, Kalle Happonen, Aleksi Kallio, Seija Sirkiä (ELIXIR-FI)
 
 - Using clouds and VMs in bioinformatics training in Sweden. Bioimg.org, a catalogue of virtual machine images for life sciences. *Ola Spjuth, UPPMAX*  
 
--I FedCloud for bioinformatics somopoulos (Aristotle University of Thessaloniki): 
+- EGI FedCloud for bioinformatics. *Diego Scardaci (EGI) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* 
 
-Pedro Fernandes (ELIXIR-PT)
--agrant
+- Vagrant. *Pedro Fernandes (ELIXIR-PT)*
 
-Abdulrahman Azab (ELIXIR-NO)
-Docker
+- Docker. *Abdulrahman Azab (ELIXIR-NO)*
 
-Markus van Dijk (ELIXIR-NL)
-Using cloud and Docker for bioinformatics in Netherlands
+- Using cloud and Docker for bioinformatics in Netherlands *Markus van Dijk (ELIXIR-NL)*
 
 **Tuesday 24.5.2016**
 
 9-12 Hands-ons and discussions
 
-Christophe Blanchet (ELIXIR-FRANCE)
-French bioinformatics cloud
+- French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FRANCE)*
 
-Stefano Nicotri (ELIXIR-IT)?
-Cloud activities in bioinformatics in Italy
+- Cloud activities in bioinformatics in Italy. *Stefano Nicotri (ELIXIR-IT)?*
 
 12-13 Lunch
 
 13-17 Hands-ons and discussions
 
-Pedro Fernandes (ELIXIR-PT)
-Vagrant
+- Vagrant. *Pedro Fernandes (ELIXIR-PT)*
 
-Abdulrahman Azab (ELIXIR-NO)
-Docker
+- Docker. *Abdulrahman Azab (ELIXIR-NO)*
 
 **Wednesday 25.5.2016**
 
 9-12 Hands-ons and discussions
 
-Diego Scardaci (EGI)
-Basic tools to exploit the EGI FedCloud
+Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI)*
 
 12-13 Lunch
 
 13-17 Hands-ons and discussions
 
-Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)
-How to use bioinformatic applications running on the EGI FedCloud
+- How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
