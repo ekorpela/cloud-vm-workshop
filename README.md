@@ -1,5 +1,8 @@
-# cloud-vm-workshop
-Material for the ELIXIR EXCELERATE workshop "Using clouds and VMs in bioinformatics training" 23.-25.5.2016 Espoo, Finland
+#### cloud-vm-workshop
+This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section.
+
+# Using clouds and VMs in bioinformatics training
+#### [ELIXIR](https://www.elixir-europe.org/) [EXCELERATE](https://www.elixir-europe.org/excelerate) workshop 23.-25.5.2016 Espoo, Finland
 
 This workshop focuses on a dialogue between bioinformatics trainers and infrastructure specialists in order to provide an optimal software and hardware infrastructure for training. Bioinformatics analysis typically involves a large number of software and reference data, making the installation process a time-consuming task. This problem is aggravated in a course setting, where every participant needs to have an identical installation, sufficient hardware to run it, and, ideally, access to an identical set-up after the course. If participants use their own laptops, a lot of valuable course time is too often wasted on installation problems.
 
@@ -26,19 +29,19 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Presentations and discussions
 
-- Bioinformatics Cloud and VMs in France. *Christophe Blanchet (ELIXIR-FR)*
+- [Freanch Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
 
 - Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (ELIXIR-IT)* 
 
-- Using clouds and VMs in bioinformatics training in Sweden. Bioimg.org, a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, Sweden)*  
+- Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, Sweden)*  
 
-- EGI FedCloud for bioinformatics. *Diego Scardaci (EGI) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* 
+- [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/) for bioinformatics. *Diego Scardaci (EGI) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* 
 
-- Vagrant. *Pedro Fernandes (ELIXIR-PT)*
+- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
-- Docker. *Abdulrahman Azab (ELIXIR-NO)*
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
 
-- Using cloud and Docker for bioinformatics in Netherlands *Markus van Dijk (ELIXIR-NL)*
+- Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*
 
 **Tuesday 24.5.2016**
 
