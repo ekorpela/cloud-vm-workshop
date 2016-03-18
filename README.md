@@ -35,13 +35,13 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*  
 
-- [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/) for bioinformatics. *Diego Scardaci (EGI) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* 
-
 - [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
 - [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
 
 - Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*
+
+- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)*
 
 **Tuesday 24.5.2016**
 
@@ -63,7 +63,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 9-12 Hands-ons and discussions
 
-- Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI)*
+- Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI.eu/INFN)*
 
 12-13 Lunch
 
