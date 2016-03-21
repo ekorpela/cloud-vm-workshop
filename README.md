@@ -31,7 +31,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
 
-- Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (ELIXIR-IT)* 
+- Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (INFN, ELIXIR-IT)* 
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*  
 
@@ -49,7 +49,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FRANCE)*
 
-- Stefano did you want to run a hands-on and what topic would you like to have? *Stefano Nicotri (ELIXIR-IT)*
+- Stefano did you want to run a hands-on and what topic would you like to have? *Stefano Nicotri (INFN, ELIXIR-IT)*
 
 12-13 Lunch
 
