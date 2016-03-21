@@ -64,10 +64,11 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 9-12 Hands-ons and discussions
 
 - Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI.eu/INFN)*
+- How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
 12-13 Lunch
 
 13-17 Hands-ons and discussions
 
-- How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
+
 
