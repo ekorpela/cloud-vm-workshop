@@ -29,7 +29,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Presentations and discussions
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)
 
 - Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (INFN, ELIXIR-IT)* 
 
@@ -45,9 +45,13 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 **Tuesday 24.5.2016**
 
-9-12 Hands-ons and discussions
+9-9:30 Presentation and discussion
 
-- French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FRANCE)*
+- Clouds & VM: a showcase from Australia GVL as a platform for Bionformatics Training *Andrew Lonie & Simon Gladman ([https://www.embl-abr.org.au](EMBL-ABR))*
+- 
+9:30-12 Hands-on and discussion
+
+- French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FR)*
 
 12-13 Lunch
 
