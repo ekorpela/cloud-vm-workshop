@@ -48,7 +48,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 9-9:30 Presentation and discussion
 
 - Clouds & VM: a showcase from Australia GVL as a platform for Bionformatics Training *Andrew Lonie & Simon Gladman ([https://www.embl-abr.org.au](EMBL-ABR))*
-- 
+
 9:30-12 Hands-on and discussion
 
 - French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FR)*
