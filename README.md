@@ -10,7 +10,7 @@ Ready-to-run virtual machine (VM) images and Docker containers containing pre-in
 
 Taken together, this workshop aims to enable trainers and infrastructure specialists to share their experiences on using VMs and clouds, and to bring everybody abreast with the full potential of these technologies. The ELIXIR infrastructure providers will also gain valuable knowledge on the special needs that bioinformatics training poses. 
 
-#### Tentative program (please feel free to change your topic etc)
+#### Preliminary program
 
 **Monday 23.5.2016**
 
@@ -47,7 +47,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 9-9:30 Presentation and discussion
 
-- Clouds & VM: a showcase from Australia GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*
+- Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*
 
 9:30-12 Hands-on and discussion
 
@@ -72,7 +72,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Hands-ons and discussions
 
-- Stefano did you want to run a hands-on and what topic would you like to have? *Stefano Nicotri (INFN, ELIXIR-IT)*
+- Cloud activities in bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)*
 
 
 
