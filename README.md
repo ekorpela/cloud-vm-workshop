@@ -49,8 +49,6 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FRANCE)*
 
-- Stefano did you want to run a hands-on and what topic would you like to have? *Stefano Nicotri (INFN, ELIXIR-IT)*
-
 12-13 Lunch
 
 13-17 Hands-ons and discussions
@@ -69,6 +67,8 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 12-13 Lunch
 
 13-17 Hands-ons and discussions
+
+- Stefano did you want to run a hands-on and what topic would you like to have? *Stefano Nicotri (INFN, ELIXIR-IT)*
 
 
 
