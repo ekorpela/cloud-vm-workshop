@@ -1,6 +1,8 @@
 This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section.
 
-####[Workshop registration](https://csc.fi/web/training/-/cloud-vm-bioinformatics) is open until 1.5.2016. Places are filled in the registration order.
+---
+
+####[Workshop registration](https://csc.fi/web/training/-/cloud-vm-bioinformatics) is open until 1.5.2016. 
 
 # Using clouds and VMs in bioinformatics training
 #### [ELIXIR](https://www.elixir-europe.org/) [EXCELERATE](https://www.elixir-europe.org/excelerate) workshop 23.-25.5.2016, [CSC](https://www.csc.fi/how-to-reach-us), Espoo, Finland
