@@ -1,5 +1,6 @@
-#### cloud-vm-workshop
 This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section.
+
+####[Workshop registration](https://csc.fi/web/training/-/cloud-vm-bioinformatics) is open until 1.5.2016. Places are filled in the registration order.
 
 # Using clouds and VMs in bioinformatics training
 #### [ELIXIR](https://www.elixir-europe.org/) [EXCELERATE](https://www.elixir-europe.org/excelerate) workshop 23.-25.5.2016, [CSC](https://www.csc.fi/how-to-reach-us), Espoo, Finland
@@ -30,7 +31,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 - [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
 
-- INFN cloud activities for bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)* 
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)* 
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*  
 
@@ -72,7 +73,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Hands-ons and discussions
 
-- INFN Cloud demo. *Stefano Nicotri (INFN, ELIXIR-IT)*
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) demo. *Stefano Nicotri (INFN, ELIXIR-IT)*
 
 - [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
  
