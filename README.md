@@ -29,9 +29,9 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Presentations and discussions
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
 
-- Cloud activities in bioinformatics in Italy. *Stefano Nicotri / Giacinto Donvito (INFN, ELIXIR-IT)* 
+- INFN Cloud Activities for bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)* 
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*  
 
@@ -51,28 +51,31 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 9:30-12 Hands-on and discussion
 
-- French bioinformatics cloud. *Christophe Blanchet (ELIXIR-FR)*
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
 
 12-13 Lunch
 
 13-17 Hands-ons and discussions
 
-- Vagrant. *Pedro Fernandes (ELIXIR-PT)*
+- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
-- Docker. *Abdulrahman Azab (ELIXIR-NO)*
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
 
 **Wednesday 25.5.2016**
 
 9-12 Hands-ons and discussions
 
 - Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI.eu/INFN)*
+
 - How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
 12-13 Lunch
 
 13-17 Hands-ons and discussions
 
-- Cloud activities in bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)*
+- INFN Cloud demo. *Stefano Nicotri (INFN, ELIXIR-IT)*
+ 
+- Using AWS and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*
 
 
 
