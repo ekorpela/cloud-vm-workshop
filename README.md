@@ -56,7 +56,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Hands-ons and discussions
 
-- How to start a VM, add users and volumes, set up network and floating IP, and take a snaphot in [cPouta cloud](https://research.csc.fi/pouta-user-guide) using Horizon. *Kalle Happonen (ELIXIR-FI)*
+- How to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot in [cPouta cloud](https://research.csc.fi/pouta-user-guide) using OpenStack's Horizon software. *Kalle Happonen (ELIXIR-FI)*
 
 - [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
