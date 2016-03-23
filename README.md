@@ -5,11 +5,13 @@ This repository contains material and programme for the workshop "Using clouds a
 # Using clouds and VMs in bioinformatics training
 #### [ELIXIR](https://www.elixir-europe.org/) [EXCELERATE](https://www.elixir-europe.org/excelerate) workshop 23.-25.5.2016, [CSC](https://www.csc.fi/how-to-reach-us), Espoo, Finland
 
-This workshop focuses on a dialogue between bioinformatics trainers and infrastructure specialists in order to provide an optimal software and hardware infrastructure for training. Bioinformatics analysis typically involves a large number of software and reference data, making the installation process a time-consuming task. This problem is aggravated in a course setting, where every participant needs to have an identical installation, sufficient hardware to run it, and, ideally, access to an identical set-up after the course. If participants use their own laptops, a lot of valuable course time is too often wasted on installation problems.
+This international workshop enables bioinformatics trainers and infrastructure specialists to share their experiences and knowledge on using clouds, virtual machine (VM) images and Docker, and it brings everybody abreast with the full potential of these technologies.
+
+Bioinformatics analysis typically involves a large number of software and reference data, making the installation process a time-consuming task. This problem is aggravated in a course setting, where every participant needs to have an identical installation, sufficient hardware to run it, and, ideally, access to an identical set-up after the course. If participants use their own laptops, a lot of valuable course time is too often wasted on installation problems.
 
 Ready-to-run virtual machine (VM) images and Docker containers containing pre-installed analysis software are gaining momentum in bioinformatics. They can be run on participant’s own computer, or better still on cloud platforms, which typically provide more computing power and memory, required for example for NGS analysis jobs. The additional benefit of using a VM/Docker and cloud is the easy scaling for running tens or hundreds of simultaneous jobs in a course setting. Bioinformatics and especially NGS analysis pose some additional challenges which will also be tackled: the VM images can get inconveniently large and they need to be updated often in order to keep reference data and analysis tools up to date.
 
-Taken together, this workshop aims to enable trainers and infrastructure specialists to share their experiences on using VMs and clouds, and to bring everybody abreast with the full potential of these technologies. The ELIXIR infrastructure providers will also gain valuable knowledge on the special needs that bioinformatics training poses. 
+This workshop introduces several cloud platforms from different countries, and it allows bioinformatics trainers to gain hands-on experience in running VM images and Docker containers in them. The dialogue between bioinformatics trainers and infrastructure providers also allows the latter to gain valuable knowledge on the special needs that bioinformatics training poses. 
 
 #### Preliminary program
 
