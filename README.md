@@ -14,7 +14,7 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 **Monday 23.5.2016**
 
-9-12 Presentations, discussion and hands-ons
+9-12 Presentations, discussion and hands-on
 
 *Vera Hansper, Kalle Happonen, Aleksi Kallio, Seija Sirkiä (ELIXIR-FI)*
 - Introduction to compute clouds
