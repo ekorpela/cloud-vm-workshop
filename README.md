@@ -23,7 +23,6 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 - Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and Horizon
 - Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts
 - Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio
-- Hands-on using Horizon: start a VM, set up network and floating IP, add volumes, add users, install some bioinfo software, take a snaphot, use the snapshot
 
 12-13 Lunch
 
@@ -57,15 +56,15 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 
 13-17 Hands-ons and discussions
 
-- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
+- Using OpenStack's Horizon in [cPouta cloud](https://research.csc.fi/pouta-user-guide) to start a VM, set up network and floating IP, add volumes and users, and take a snaphot. *Kalle Happonen (ELIXIR-FI)*
 
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
+- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
 **Wednesday 25.5.2016**
 
 9-12 Hands-ons and discussions
 
-- Basic tools to exploit the EGI FedCloud. *Diego Scardaci (EGI.eu/INFN)*
+- Basic tools to exploit the [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/). *Diego Scardaci (EGI.eu/INFN)*
 
 - How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
@@ -74,8 +73,10 @@ Taken together, this workshop aims to enable trainers and infrastructure special
 13-17 Hands-ons and discussions
 
 - INFN Cloud demo. *Stefano Nicotri (INFN, ELIXIR-IT)*
+
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
  
-- Using AWS and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*
+- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*
 
 
 
