@@ -61,7 +61,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13-17 Hands-ons and discussions
 
-- How to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot in [cPouta cloud](https://research.csc.fi/pouta-user-guide) using OpenStack's Horizon software. *Kalle Happonen (ELIXIR-FI)*
+- [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen (ELIXIR-FI)*
 
 - [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
 
