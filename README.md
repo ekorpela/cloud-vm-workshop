@@ -2,7 +2,7 @@ This repository contains material and programme for the workshop "Using clouds a
 
 ---
 
-####[Workshop registration](https://csc.fi/web/training/-/cloud-vm-bioinformatics) is open until 1.5.2016. 
+####[Workshop registration](https://csc.fi/web/training/-/cloud-vm-bioinformatics) is closes 1.5.2016 or earlier if the workshop gets full. 
 
 # Using clouds and VMs in bioinformatics training
 #### [ELIXIR](https://www.elixir-europe.org/) [EXCELERATE](https://www.elixir-europe.org/excelerate) workshop 23.-25.5.2016, [CSC](https://www.csc.fi/how-to-reach-us), Espoo, Finland
@@ -24,8 +24,8 @@ This workshop introduces several cloud platforms from different countries, and i
 *Vera Hansper, Kalle Happonen, Aleksi Kallio, Seija Sirkiä (ELIXIR-FI)*
 - Introduction to compute clouds
 - VM and hypervisor - what are they?
-- How to make a VM image and how to use it
 - Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and Horizon
+- How to make a VM image and how to use it
 - Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts
 - Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio
 
