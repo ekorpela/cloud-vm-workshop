@@ -52,7 +52,7 @@ This workshop introduces several cloud platforms from different countries, and i
 9-10 Presentations and discussions
 
 - Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*
-- [BTP](http://bib.oxfordjournals.org/content/early/2016/03/16/bib.bbw013.full): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*
+- [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*
 
 10-12 Hands-on and discussion
 
