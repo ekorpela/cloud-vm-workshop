@@ -19,7 +19,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 **Monday 23.5.2016**
 
-9-12 Presentations, discussion and hands-on (inc coffee break)
+9-12 Presentations, discussion and hands-on
 
 - Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, 10 min
 - Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizo. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, x min
@@ -36,21 +36,19 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
 
-- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min
-
 - Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, 30 min
 
 **Tuesday 24.5.2016**
 
-9-10 Presentations and discussions
+9-12 Presentation, hands-on and discussion
 
 - Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*, 30 min
 
 - [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*, 30 min
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
+- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min
 
-10-12 Presentation, hands-on and discussion
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
 
 12-13 Lunch
 
@@ -60,7 +58,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 **Wednesday 25.5.2016**
 
-9-12 Presentations, hands-ons and discussions
+9-12:30 Presentations, hands-ons and discussions
 
 - [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)*
 
@@ -68,11 +66,11 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
-12-13 Lunch
+12:30-13:30 Lunch
 
-13-17 Presentations, hands-ons and discussions
+13:30-17 Presentations, hands-ons and discussions
 
-- [Docker](https://www.docker.com/) presentation and hands-on session. *Abdulrahman Azab (ELIXIR-NO)*, 2 h
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h
  
 - Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h
 
