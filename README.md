@@ -30,9 +30,9 @@ This workshop introduces several cloud platforms from different countries, and i
 
 12-13 Lunch
 
-13-17 Presentations and discussions
+13-17 Presentations, hands-on and discussion
 
-- [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*
+- [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*, 2.5 h
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
 
@@ -40,7 +40,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 **Tuesday 24.5.2016**
 
-9-12 Presentation, hands-on and discussion
+9-12 Presentations, hands-on and discussion
 
 - Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*, 30 min
 
@@ -50,7 +50,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 12-13 Lunch
 
-13-17 Presentation, hands-on and discussion
+13-17 Presentations, hands-on and discussion
 
 - [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
 
