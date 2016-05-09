@@ -48,11 +48,11 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
-
 12-13 Lunch
 
 13-17 Presentation, hands-on and discussion
+
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
 
 - [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*. 2.5 h
 
