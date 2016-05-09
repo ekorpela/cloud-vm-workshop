@@ -32,30 +32,24 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13-17 Presentations and discussions
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. *Stefano Nicotri (INFN, ELIXIR-IT)* 
+- Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
 
-- Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*  
+- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min
 
-- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
-
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
-
-- Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*
-
-- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)*
+- Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, 30 min
 
 **Tuesday 24.5.2016**
 
 9-10 Presentations and discussions
 
-- Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*
-- [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*
+- Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*, 30 min
+- [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*, 30 min
 
-10-12 Hands-on and discussion
+10-12 Presentation, hands-on and discussion
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*. 2.5 h
 
 12-13 Lunch
 
@@ -63,11 +57,11 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*
 
-- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*
-
 **Wednesday 25.5.2016**
 
-9-12 Hands-ons and discussions
+9-12 Presentations, hands-ons and discussions
+
+- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)*
 
 - Basic tools to exploit the [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/). *Diego Scardaci (EGI.eu/INFN)*
 
@@ -75,13 +69,11 @@ This workshop introduces several cloud platforms from different countries, and i
 
 12-13 Lunch
 
-13-17 Hands-ons and discussions
+13-17 Presentations, hands-ons and discussions
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) demo. *Stefano Nicotri (INFN, ELIXIR-IT)*
-
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*
+- [Docker](https://www.docker.com/) presentation and hands-on session. *Abdulrahman Azab (ELIXIR-NO)*, 2 h
  
-- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*
+- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h
 
 
 
