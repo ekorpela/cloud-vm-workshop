@@ -22,11 +22,10 @@ This workshop introduces several cloud platforms from different countries, and i
 9-12 Presentations, discussion and hands-on
 
 - Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, 10 min
-- Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizo. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, x min
-- VM and hypervisor - what are they? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, x min
-- How to make a VM image and how to use it? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, x min
-- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, x min
-- Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, x min
+- Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizon. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 60 min
+- Creating consistent training environments in the cloud. Images? Automation? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 20 min
+- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, 30 min
+- Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, 30 min
 
 12-13 Lunch
 
