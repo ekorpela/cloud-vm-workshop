@@ -24,8 +24,8 @@ This workshop introduces several cloud platforms from different countries, and i
 - Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, 10 min
 - Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizon. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 60 min
 - Creating consistent training environments in the cloud. Images? Automation? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 20 min
-- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, 30 min
-- Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio. *Aleksi Kallio and  Seija Sirkiä (ELIXIR-FI)*, 30 min
+- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Seija Sirkiä and Olli Tourunen (ELIXIR-FI)*, 30 min
+- Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio. *Seija Sirkiä and Olli Tourunen (ELIXIR-FI)*, 30 min
 
 12-13 Lunch
 
@@ -53,7 +53,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet (ELIXIR-FR)*. 2.5 h
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h
 
 **Wednesday 25.5.2016**
 
