@@ -1,0 +1,127 @@
+heat_template_version: 2013-05-23
+
+description: Deploy a single compute instance with a volume
+
+parameters:
+  key_name:
+    type: string
+    description: Name of a KeyPair
+  vm_name:
+    type: string
+    label: VM name
+  image_id:
+    type: string
+    label: Image ID
+    default: 303d8324-69a7-4372-be24-1d68703affd7
+    description: Image to be used for compute instance (default is Ubuntu 14.04)
+  instance_type:
+    type: string
+    label: Instance Type
+    description: Type of instance (flavor) to be used
+    default: large
+  availability_zone:
+    type: string
+    description: The Availability Zone to launch the instance.
+    default: nova
+  net_id:
+    type: string
+    default: fe82ef7b-4bb7-4c1e-b4ec-ec5c1b0c7333
+    description: ID of public (default) or private network
+  scheduler_hints:
+    type: string
+    description: The Host Aggregate to launch the instance in form of '{host:myhost}'.
+    default: nova
+  security_groups:
+    type: comma_delimited_list
+    description: List of security group names or IDs
+    default: default,ssh
+  volume_size:
+    type: number
+    description: Size of the volume to be created.
+    default: 1
+  mountpoint:
+    type: string
+    description: The directory to provide to the user
+    default: /mnt/data
+  Nuser:
+    type: number
+    description: number of users
+    default: 10
+
+resources:
+  my_instance:
+    type: OS::Nova::Server
+    properties:
+      name: { get_param: vm_name }
+      key_name: { get_param: key_name }
+      image: { get_param: image_id }
+      availability_zone: { get_param: availability_zone }
+      flavor: { get_param: instance_type }
+      networks:
+        - port: { get_resource: server1_port }
+      user_data:
+        str_replace:
+          template: |
+            #!/bin/bash -v
+            sed -i -e 's/^.*ssh/ssh/' /root/.ssh/authorized_keys
+            apt-get update
+            apt-get -y upgrade
+            apt-get -y dist-upgrade
+            userdel ec2-user
+            rm -r /home/ec2-user
+            # Partition, format, mount volume
+            device_name=/dev/$(ls /dev | grep -w '[a-z]d[a-z]' | grep -v $(mount | grep ' / ' | grep -o '[a-z]d[a-z]'))
+            echo "n
+            p
+            1
+
+
+            w
+            "|fdisk $device_name;
+            mkdir -p mountpoint
+            mkfs.ext4 "$device_name"1
+            mount "$device_name"1 mountpoint
+            # create users
+            groupadd bio
+            chown root:bio mountpoint
+            chmod 770 mountpoint
+            for i in {1..Nuser}
+              do
+              useradd -m -s /bin/bash user$i
+              usermod -a -G bio user$i
+              ln -s mountpoint /home/user$i/data
+              done
+            apt-get -y install julia
+            exit
+          params:
+            mountpoint: { get_param: mountpoint }
+            Nuser: { get_param: Nuser }
+  cinder_volume:
+    type: OS::Cinder::Volume
+    properties:
+      size: { get_param: volume_size }
+      availability_zone: { get_param: availability_zone }
+  volume_attachment:
+    type: OS::Cinder::VolumeAttachment
+    properties:
+      volume_id: { get_resource: cinder_volume }
+      instance_uuid: { get_resource: my_instance }
+  server1_port:
+    type: OS::Neutron::Port
+    properties:
+      network_id: { get_param: net_id }
+      security_groups: { get_param: security_groups }
+
+outputs:
+  vmIp:
+    description: The IP address of the deployed instance
+    value: { get_attr: [my_instance, first_address] }
+  vmUuid:
+    description: Resource ID assigned to the newly created instance
+    value: { get_resource: my_instance }
+  vmName:
+    description: vm name
+    value: { get_param: vm_name }
+  volumeUuid:
+    description: Resource ID assigned to the newly created volume attached to instance
+    value: { get_resource: cinder_volume }
