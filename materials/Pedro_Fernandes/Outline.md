@@ -3,6 +3,7 @@
 
 ###
 
+- Preamble 
 - What is Vagrant? 
 - Launching a Tiny Linux using Vagrant 
 - Provisioning
