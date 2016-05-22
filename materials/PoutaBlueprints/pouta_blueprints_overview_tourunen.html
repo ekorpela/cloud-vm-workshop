@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Olli Tourunen @ Elixir Clouds and VMs workshop, Espoo, 2016-05-23">
+  <title>Pouta Blueprints overview</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section>
+  <h1 class="title">Pouta Blueprints overview</h1>
+  <h2 class="author">Olli Tourunen @ Elixir Clouds and VMs workshop, Espoo, 2016-05-23</h2>
+</section>
+
+<section><section id="overview" class="titleslide slide level1"><h1>Overview</h1></section><section id="pouta-blueprints" class="slide level2">
+<h1>Pouta Blueprints?</h1>
+<ul>
+<li class="fragment">web interface to resources provisioned in the cloud</li>
+<li class="fragment">open source project hosted at <a href="https://github.com/CSC-IT-Center-for-Science/pouta-blueprints">GitHub</a></li>
+<li class="fragment">developed by CSC - IT Center for Science</li>
+<li class="fragment">buzzwords: Docker, Angular, RESTful, Ansible, self service, SAML2, notebook</li>
+<li class="fragment">PB for short</li>
+</ul>
+</section><section id="concepts" class="slide level2">
+<h1>Concepts</h1>
+<ul>
+<li class="fragment">system admins make <em>blueprints</em>, e.g. configurations or templates</li>
+<li class="fragment">users launch <em>instances</em> of blueprints
+<ul>
+<li class="fragment">currently instances can be containers or VMs</li>
+</ul></li>
+<li class="fragment">instances are time limited, quota limited, disposable</li>
+<li class="fragment">users are authenticated (unlike http://tmpnb.org)</li>
+<li class="fragment">user accounts are either
+<ul>
+<li class="fragment">locally added by admin (via activation email)</li>
+<li class="fragment">based on SAML2 identity</li>
+</ul></li>
+</ul>
+</section><section id="pb-service" class="slide level2">
+<h1>PB Service</h1>
+<ul>
+<li class="fragment">CSC runs a Pouta Blueprints server</li>
+<li class="fragment">open to anyone with HAKA federated identity credentials</li>
+<li class="fragment">currently in public beta</li>
+<li class="fragment">blueprints for RStudio and IPython/Jupyter notebooks</li>
+<li class="fragment">available at https://pb.csc.fi</li>
+<li class="fragment">deployed in cPouta</li>
+</ul>
+</section></section>
+<section><section id="use-case-notebooks-for-a-course-on-pb.csc.fi" class="titleslide slide level1"><h1>Use case: Notebooks for a course on pb.csc.fi</h1></section><section id="the-professor" class="slide level2">
+<h1>The Professor</h1>
+<p>&quot;I would like to have an RStudio environment where I can just point my students to by sharing a link. The environment should contain the latest version of the exercises I made.&quot;</p>
+</section><section id="the-professor-1" class="slide level2">
+<h1>The Professor</h1>
+<ul>
+<li class="fragment">prepares a notebook for a lecture
+<ul>
+<li class="fragment">the notebook can download more material when launched</li>
+</ul></li>
+<li class="fragment">uploads it somewhere in the web</li>
+<li class="fragment">points the students to https://pb.csc.fi</li>
+</ul>
+</section><section id="the-student" class="slide level2">
+<h1>The Student</h1>
+<ul>
+<li class="fragment">receives a link to the system (and activation token if necessary)</li>
+<li class="fragment">opens a browser and logs in</li>
+<li class="fragment">launches an instance of the course blueprint</li>
+<li class="fragment">learns something</li>
+</ul>
+</section><section id="the-system" class="slide level2">
+<h1>The System</h1>
+<ul>
+<li class="fragment">launches a new container instance per student with the newest version of the lecture notebook</li>
+<li class="fragment">manages a pool of VMs running these containers</li>
+<li class="fragment">removes instances when they expire</li>
+<li class="fragment">recycles old pool VMs for increased security</li>
+</ul>
+</section></section>
+<section><section id="missing-bits" class="titleslide slide level1"><h1>Missing bits</h1></section><section id="permanent-storage" class="slide level2">
+<h1>Permanent storage</h1>
+<ul>
+<li class="fragment">currently all instance data is deleted when the instance lifetime ends</li>
+<li class="fragment">a permanent session concept would make the service useful for serious work</li>
+<li class="fragment">many open questions from technical to policy level</li>
+<li class="fragment">IMHO: if there is storage, it needs to be reliable from the start</li>
+<li class="fragment">Idea: provide examples how to use external storage</li>
+</ul>
+</section><section id="user-grouping" class="slide level2">
+<h1>User grouping</h1>
+<ul>
+<li class="fragment">currently no grouping of users, just a flat list with admin flag on or off</li>
+<li class="fragment">groups would be useful for
+<ul>
+<li class="fragment">limiting access and visibility to blueprints</li>
+<li class="fragment">creating global blacklists, whitelists</li>
+</ul></li>
+</ul>
+</section><section id="group-managers" class="slide level2">
+<h1>Group managers</h1>
+<ul>
+<li class="fragment">at the moment only admins can manage blueprints</li>
+<li class="fragment">currently users that have admin rights are full admins</li>
+<li class="fragment">in pb.csc.fi CSC admins will have to make all modifications to blueprints -&gt; does not scale</li>
+<li class="fragment">enter Group managers
+<ul>
+<li class="fragment">can create user groups</li>
+<li class="fragment">can customize selected properties of blueprints (size, bootstrap url, ...)</li>
+</ul></li>
+</ul>
+</section><section id="accounting" class="slide level2">
+<h1>Accounting</h1>
+<ul>
+<li class="fragment">before long, we need to be able to track who is running and how much</li>
+<li class="fragment">with the additional features above, a single service instance can be used to provide custom, private content for a closed course etc.</li>
+</ul>
+</section></section>
+<section><section id="finally" class="titleslide slide level1"><h1>Finally</h1></section><section id="summary" class="slide level2">
+<h1>Summary</h1>
+<ul>
+<li class="fragment">Pouta Blueprints is open source software for sharing your cloud resources
+<ul>
+<li class="fragment">anyone is free to deploy a copy and contribute</li>
+</ul></li>
+<li class="fragment">pb.csc.fi is a pilot service operated by CSC
+<ul>
+<li class="fragment">users can launch notebooks</li>
+<li class="fragment">open for Finnish researchers and students</li>
+</ul></li>
+</ul>
+</section><section id="thanks" class="slide level2">
+<h1>Thanks!</h1>
+<p>Questions, please!</p>
+</section></section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+    </body>
+</html>
