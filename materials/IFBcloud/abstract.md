@@ -16,8 +16,9 @@ There will be to parts to the session.
 http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud/prerequis
 
 Useful links:
+  * French Institute of Bioinformatics : http://www.france-bioinformatique.fr
   * IFB Cloud : https://cloud.france-bioinformatique.fr/accounts/login 
-  * Docs :  http://www.france-bioinformatique.fr/fr/core/doc-du-cloud
+  * Docs :  http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud
   * RAINBIO : http://cloud.france-bioinformatique.fr/rainbio
-  * BioShaDock :  http://docker-ui.genouest.org/app/#/all/containers
+  * BioShaDock :  http://docker-ui.genouest.org/app/
   * Example data : http://www.france-bioinformatique.fr/sites/default/files/pages/dataset_ibi.zip
