@@ -12,7 +12,7 @@ There will be to parts to the session.
   * Howto to connect to your VMS (SSH, web, remote desktop)
   * Personalizing your VMs (approver, galaxy, docker)
 
-** Before the practice session, you will need to install these prerequisites on your laptop:**
+**Before the practice session, you will need to install these prerequisites on your laptop:**
 http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud/prerequis
 
 Useful links:
