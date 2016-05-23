@@ -17,7 +17,7 @@ http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud/prerequis
 
 Useful links:
   * French Institute of Bioinformatics : http://www.france-bioinformatique.fr
-  * IFB Cloud : https://cloud.france-bioinformatique.fr/accounts/login 
+  * IFB Cloud : https://cloud.france-bioinformatique.fr/cloud 
   * Docs :  http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud
   * RAINBIO : http://cloud.france-bioinformatique.fr/rainbio
   * BioShaDock :  http://docker-ui.genouest.org/app/
