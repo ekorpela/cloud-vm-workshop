@@ -3,9 +3,9 @@
 ## Content of this folder
 
 1. Using_docker_on_aws_for_bioinformatics_workshop.md: An md file describing the workshop aim, its learning objectives and a rough schedule.
-2. 
+
 2. Using_docker_on_aws_for_bioinformatics_workshop.pdf: The same as a PDF
-3. 
+
 3. website: A folder containing the website source code
 
 ## Details

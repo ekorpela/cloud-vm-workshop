@@ -12,8 +12,8 @@ By the end of the worshop, you will be able to:
 
 __Schedule__
 
-1. Short presentation of the AWS console
-2. Accessing the AWS console (either using your own account or a workshop)
+1. Short presesentation of the AWS console
+2. Accessing the AWS console (either using your own account or account created for you for the workshop)
 3. Creating, accessing and configuring an AWS instance
 4. Deploying a docker image on the AWS instance
 4. Deploying a website on the AWS instance
