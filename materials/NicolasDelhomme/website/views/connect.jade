@@ -23,13 +23,22 @@ block content
                 th ID
                 th Email
                 th GateOne (web-based terminal)
+                th Apache2
             tbody
             for key,val in userdata
                 tr
                     td=key
                     td=val
                     td
-                        a(href="http://localhost:90" + key) Connect to Terminal
+                        a(href="http://" + IP + ":90" + key) Connect to Terminal
+                    td
+                        a(href="http://" + IP + ":80" + key) Connect to Apache2
+            td 50
+            td nicolas.delhomme@umu.se
+            td
+                a(href="http://52.50.251.25:9050") Connect to Terminal
+            td
+                a(href="http://52.50.251.25:8050") Connect to Apache 2
         hr
         a.btn.btn-lg.btn-success(href='/', role='button') Home
         span &nbsp

@@ -1,5 +1,6 @@
 express = require('express');
 var router = express.Router();
+var getIP = require('external-ip')();
 
 userdata =
 {
@@ -25,7 +26,9 @@ userdata =
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.render('connect', {userdata : userdata, title: 'cloud-wm-workshop 2016' });
+    getIP(function (err,ip) {
+        res.render('connect', {userdata : userdata, title: 'cloud-wm-workshop 2016', IP:ip });
+    });
 });
 
 module.exports = router;
