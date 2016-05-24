@@ -23,5 +23,5 @@ Useful links:
     * Sign in (we will provide you with a temporary training account) : https://cloud.france-bioinformatique.fr/cloud 
   * Docs :  http://www.france-bioinformatique.fr/en/cloud/doc-du-cloud
   * RAINBIO : http://cloud.france-bioinformatique.fr/rainbio
-  * BioShaDock :  http://docker-ui.france-bioinformatique.fr/app/
+  * BioShaDock :  http://docker-ui.france-bioinformatique.fr
   * Example data : http://www.france-bioinformatique.fr/sites/default/files/pages/dataset_ibi.zip
