@@ -2,7 +2,7 @@
 
 The real power of using virtual machines comes from allowing for reproducible working environments available.
 A Vagrantfile can do more than specifying an "empty" Linux system, it can carry an "inventored" set of applications, 
-listed "manually" (the Vagrantfile is a Ruby script). It can also specify that the inventory is automatically managed.
+listed "manually" (the Vagrantfile is a Ruby script). It can also specify that the inventory is automatically managed as a "manifest" like in awarehouse or a ship.
 Consider using Puppet or Chef to do that.
 
 Have a look at this section of the ARANGS16 course, 

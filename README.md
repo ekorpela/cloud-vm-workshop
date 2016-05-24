@@ -18,21 +18,23 @@ This workshop introduces several cloud platforms from different countries, and i
 
 9-12 Presentations, discussion and hands-on
 
-- Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, 10 min
-- Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizon. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 60 min
-- Creating consistent training environments in the cloud. Images? Automation? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, 20 min
-- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Seija Sirkiä and Olli Tourunen (ELIXIR-FI)*, 30 min
-- Hands-on using Pouta Blueprints to 1) launch instances on OpenStack cloud and 2) start RStudio. *Seija Sirkiä and Olli Tourunen (ELIXIR-FI)*, 30 min
-
+- Welcome and backgroud *Eija Korpelainen (ELIXIR-FI)*, [materials](/materials/EijaKorpelainen)
+- Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, [materials](/materials/VeraHansper)
+- Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizon. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
+- Creating consistent training environments in the cloud. Images? Automation? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
+- Introduction to CSC's [Pouta Blueprints software](https://github.com/CSC-IT-Center-for-Science/pouta-blueprints), a frontend to manage cloud resources and lightweight user accounts. *Seija Sirkiä and Olli Tourunen (ELIXIR-FI)*, [materials](/materials/PoutaBlueprints)
+    - Hands-on using Pouta Blueprints to launch RStudio.
+    - Overview of Pouta Blueprints
+    
 12-13 Lunch
 
 13-17 Presentations, hands-on and discussion
 
-- [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*, 2.5 h
+- [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
 
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
 
-- Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, 30 min
+- Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, [materials](/materials/Markus%20van%20Dijk)
 
 **Tuesday 24.5.2016**
 
@@ -42,23 +44,23 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*, 30 min
 
-- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min
+- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min, [materials](/materials/Pedro_Fernandes)
 
 12-13 Lunch
 
 13-17 Presentations, hands-on and discussion
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min.
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min. [materials](/materials/stefano_nicotri)
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h. [materials](/materials/IFBcloud)
 
 **Wednesday 25.5.2016**
 
 9-12:30 Presentations, hands-ons and discussions
 
-- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)*
+- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* [materials](/materials/Diego-Scardaci)
 
-- Basic tools to exploit the [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/). *Diego Scardaci (EGI.eu/INFN)*
+- Basic tools to exploit the [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/). 
 
 - How to use bioinformatic applications running on the EGI FedCloud. *Fotis Psomopoulos (Aristotle University of Thessaloniki), Kimmo Mattila (ELIXIR-FI)*
 
@@ -66,9 +68,9 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13:30-17 Presentations, hands-ons and discussions
 
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h. [materials](/materials/Docker)
  
-- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h
+- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h. [materials](/materials/NicolasDelhomme)
 
 
 

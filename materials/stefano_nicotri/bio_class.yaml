@@ -65,8 +65,6 @@ resources:
             #!/bin/bash -v
             sed -i -e 's/^.*ssh/ssh/' /root/.ssh/authorized_keys
             apt-get update
-            apt-get -y upgrade
-            apt-get -y dist-upgrade
             userdel ec2-user
             rm -r /home/ec2-user
             # Partition, format, mount volume
@@ -91,7 +89,7 @@ resources:
               usermod -a -G bio user$i
               ln -s mountpoint /home/user$i/data
               done
-            apt-get -y install julia
+              apt-get -y install bowtie2
             exit
           params:
             mountpoint: { get_param: mountpoint }
