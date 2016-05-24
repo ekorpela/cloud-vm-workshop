@@ -50,15 +50,15 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13-17 Presentations, hands-on and discussion
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min. (/materials/stefano_nicotri)
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min. [materials](/materials/stefano_nicotri)
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h. (/materials/IFBcloud)
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h. [materials](/materials/IFBcloud)
 
 **Wednesday 25.5.2016**
 
 9-12:30 Presentations, hands-ons and discussions
 
-- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* (/materials/Diego-Scardaci)
+- [Clouds](https://www.egi.eu/solutions/fed-cloud/), VMs and other resources from EGI for bioinformatics training. *Diego Scardaci (EGI.eu/INFN) and Fotis Psomopoulos (Aristotle University of Thessaloniki)* [materials](/materials/Diego-Scardaci)
 
 - Basic tools to exploit the [EGI FedCloud](https://www.egi.eu/solutions/fed-cloud/). 
 
@@ -68,9 +68,9 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13:30-17 Presentations, hands-ons and discussions
 
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h. (/materials/Docker)
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h. [materials](/materials/Docker)
  
-- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h. (/materials/NicolasDelhomme)
+- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h. [materials](/materials/NicolasDelhomme)
 
 
 
