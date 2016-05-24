@@ -9,4 +9,4 @@ Credits are due to the instructors, Rutger Vos (Naturalis, NL), Hannes Hettling 
 and Darin London (Duke U., Rayleigh NC, USA)
 
 The materials for this course were developed in https://github.com/rvosa/arangs2016 
-that uou are invited to browse and fork at will.
+that you are invited to browse and fork at will.
