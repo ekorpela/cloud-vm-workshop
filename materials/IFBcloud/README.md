@@ -2,9 +2,9 @@
 
 The French Institute of Bioinformatics (IFB) is a national service infrastructure in bioinformatics and the French node of ELIXIR. The IFB’s principal mission is to provide core bioinformatics resources to the French life science community (academic and private partners) coupled to the required computing and storage capacity in a national bioinformatics cloud. To address the most common needs, a selection of major scientific software tools was made and they were installed in pre-configured virtual images (cloud appliances), ready to run on the IFB’s cloud. To date, 36 appliances cover different domains of the life sciences, for example users can deploy a standard bioinformatics compute node (that can also be deployed as a virtual cluster of several VMs), a complete R environnement (with R-studio and shiny), the IGV genomes browser or different flavours of a Galaxy portal. IFB maintains a catalogue of these appliances (RAINBio) that  helps the cloud users to filter the virtual images list according to their needs in terms of tools or scientific topics (based on the EDAM ontology). IFB is also using the lightweight virtualization based on Docker containers to provide life science researchers and engineers with bioinformatics tools and pipelines ready to run in the cloud or locally to personalized their virtual research environment. Finally, IFB places also special emphasis both to train users about the cloud itself (IBIs course series), and on the usage of the cloud to train about bioinformatics by supporting bionformatics master courses, tutorial and scientific schools. 
 
-There will be to parts to the session.
+There will be two parts to the session.
 
-1. A general introduction to the French bioinformatic cloud to analyse life science data  ( [Slides](https://github.com/ekorpela/cloud-vm-workshop/blob/master/materials/IFBcloud/IFBcloud%20ELIX-FI%20workshop%2024May2016.pdf) )
+1. A general introduction to the French bioinformatics cloud to analyse life science data  ( [Slides](https://github.com/ekorpela/cloud-vm-workshop/blob/master/materials/IFBcloud/IFBcloud%20ELIX-FI%20workshop%2024May2016.pdf) )
 
 2. Practical work to introduce basic and advanced usage of the IFB cloud
   * Howto launch virtual machines
