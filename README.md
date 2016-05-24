@@ -18,7 +18,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 9-12 Presentations, discussion and hands-on
 
-- Welcome and and backgroud *Eija Korpelainen (ELIXIR-FI)*, [materials](/materials/EijaKorpelainen)
+- Welcome and backgroud *Eija Korpelainen (ELIXIR-FI)*, [materials](/materials/EijaKorpelainen)
 - Introduction to compute clouds. *Vera Hansper (ELIXIR-FI)*, [materials](/materials/VeraHansper)
 - Introduction to CSC's OpenStack [cPouta cloud](https://research.csc.fi/pouta-user-guide) and its Web UI Horizon. *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
 - Creating consistent training environments in the cloud. Images? Automation? *Kalle Happonen / Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
