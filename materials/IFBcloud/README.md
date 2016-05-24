@@ -4,7 +4,7 @@ The French Institute of Bioinformatics (IFB) is a national service infrastructur
 
 There will be to parts to the session.
 
-1. A general introduction to the French bioinformatic cloud to analyse life science data
+1. A general introduction to the French bioinformatic cloud to analyse life science data [Slides](https://github.com/ekorpela/cloud-vm-workshop/blob/master/materials/IFBcloud/IFBcloud%20ELIX-FI%20workshop%2024May2016.pdf)
 
 2. Practical work to introduce basic and advanced usage of the IFB cloud
   * Howto launch virtual machines
