@@ -1,0 +1,37 @@
+//
+   Created by bastianschiffthaler on 4/13/16.
+extends layout
+
+block content
+    .container-fluid
+        h1 Using clouds and VMs in bioinformatics training
+        hr
+        a.btn.btn-lg.btn-success(href='/', role='button') Home
+        span &nbsp
+        a.btn.btn-lg.btn-primary(href="/materials") View or download materials
+        hr
+        p.lead.
+            Note:
+        ul
+            li The username and password are "training"
+            li When connecting to the GateOne terminal, accept the default "localhost" and "22"
+        hr
+        h3 Connect to your instance
+        br
+        table.table.table-striped
+            thead
+                th ID
+                th Email
+                th GateOne (web-based terminal)
+            tbody
+            for key,val in userdata
+                tr
+                    td=key
+                    td=val
+                    td
+                        a(href="http://localhost:90" + key) Connect to Terminal
+        hr
+        a.btn.btn-lg.btn-success(href='/', role='button') Home
+        span &nbsp
+        a.btn.btn-lg.btn-primary(href="/materials") View or download materials
+        hr

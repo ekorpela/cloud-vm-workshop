@@ -3,10 +3,13 @@
 
 ###
 
+- Preamble 
 - What is Vagrant? 
 - Launching a Tiny Linux using Vagrant 
 - Provisioning
-- Adopting Vagrant technology in training environments
-- Vagrant compared to Docker in specific aspects
-- Examples
+- Discussion
+ * Adopting Vagrant technology in training environments
+ * Vagrant compared to Docker in specific aspects
+- Example to play with
+
 
