@@ -2,7 +2,7 @@
 
 * Install Docker on the machine
 * Pull the image for the software, e.g. <b>Bowtie</b> using the image ``genomicpariscentre/bowtie1``
-* Create a file ''/usr/bin/bowtie'' with the following content:
+* Create a file ``/usr/bin/bowtie`` with the following content:
 ```
 #! /bin/bash
 uid=`id -u $LOGNAME`
