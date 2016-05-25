@@ -9,3 +9,4 @@ Useful Links
 * [Install Docker](https://docs.docker.com/engine/installation/)
 * [Docker Training](https://training.docker.com/)
 * [Docker Hub](https://hub.docker.com/)
+* [Automated Builds on Docker Hub](https://docs.docker.com/docker-hub/builds/)
