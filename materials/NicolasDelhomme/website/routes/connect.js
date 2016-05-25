@@ -1,6 +1,12 @@
+var IP;
+
 express = require('express');
 var router = express.Router();
 var getIP = require('external-ip')();
+
+getIP(function (err,ip){
+    IP=ip;
+});
 
 userdata =
 {
@@ -20,14 +26,13 @@ userdata =
     "Kimmo":"14",
     "Ari-matti":"15",
     "Abdurrhaman":"16",
-    "Stefano":"17"
+    "Stefano":"17",
+    "Pedro":"18"
 };
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-    getIP(function (err,ip) {
-        res.render('connect', {userdata : userdata, title: 'cloud-wm-workshop 2016', IP:ip });
-    });
+        res.render('connect', {userdata : userdata, title: 'cloud-wm-workshop 2016', IP:IP });
 });
 
 module.exports = router;
