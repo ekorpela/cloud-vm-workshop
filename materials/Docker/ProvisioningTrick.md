@@ -1,6 +1,6 @@
-# Trick to deploy software securely as a docker image
+# Trick to deploy software securely as a docker image on a production system
 
-* Install Docker on the machine
+* Install Docker on the system machine
 * Pull the image for the software, e.g. <b>Bowtie</b> using the image ``genomicpariscentre/bowtie1``
 * Create a file ``/usr/bin/bowtie`` with the following content:
 ```
