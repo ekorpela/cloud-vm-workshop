@@ -10,3 +10,6 @@ Useful Links
 * [Docker Training](https://training.docker.com/)
 * [Docker Hub](https://hub.docker.com/)
 * [Automated Builds on Docker Hub](https://docs.docker.com/docker-hub/builds/)
+* [Docker Galaxy](https://github.com/bgruening/docker-galaxy-stable)
+* [Creating Docker tools in Galaxy](https://wiki.galaxyproject.org/Admin/Tools/Docker)
+* [Auto-create tools as lightweight Docker images](https://github.com/mulled/mulled)
