@@ -1,4 +1,4 @@
-# Trick to deploy software as a docker image
+# Trick to deploy software securely as a docker image
 
 * Install Docker on the machine
 * Pull the image for the software, e.g. <b>Bowtie</b> using the image ``genomicpariscentre/bowtie1``
