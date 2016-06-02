@@ -12,7 +12,7 @@ Ready-to-run virtual machine (VM) images and Docker containers containing pre-in
 
 This workshop introduces several cloud platforms from different countries, and it allows bioinformatics trainers to gain hands-on experience in running VM images and Docker containers in them. The dialogue between bioinformatics trainers and infrastructure providers also allows the latter to gain valuable knowledge on the special needs that bioinformatics training poses. 
 
-#### Preliminary program
+#### Program
 
 **Monday 23.5.2016**
 
@@ -35,6 +35,9 @@ This workshop introduces several cloud platforms from different countries, and i
 - Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
 
 - Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, [materials](/materials/Markus%20van%20Dijk)
+
+20-22 Working dinner in Suomenlinnan Panimo 
+
 
 **Tuesday 24.5.2016**
 
