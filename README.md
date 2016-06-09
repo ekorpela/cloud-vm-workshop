@@ -1,4 +1,4 @@
-This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section.
+This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section. Presentation videos are available in [YouTube](https://www.youtube.com/playlist?list=PLD5XtevzF3yHDQZkvO_1kIYd7ZPlmY8j4).
 
 ---
 # [Using clouds and VMs in bioinformatics training](https://csc.fi/web/training/-/cloud-vm-bioinformatics)
@@ -32,7 +32,7 @@ This workshop introduces several cloud platforms from different countries, and i
 
 - [cPouta cloud](https://research.csc.fi/pouta-user-guide): learn how to start a VM, add users and volumes, set up network and floating IP, and save a virtual machine image by taking a snaphot. *Kalle Happonen and Jukka Nousiainen (ELIXIR-FI)*, [materials](/materials/elixir-fi)
 
-- Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, 30 min. 
+- Using clouds and VMs in bioinformatics training in Sweden. [Bioimg.org](https://bioimg.org/), a catalogue of virtual machine images for life sciences. *Ola Spjuth (UPPMAX, ELIXIR-SE)*, [materials](/materials/OlaSpjuth) 
 
 - Workshop in a compute cloud: not that obvious *Markus van Dijk (SURFsara, ELIXIR-NL)*, [materials](/materials/Markus%20van%20Dijk)
 
@@ -41,13 +41,13 @@ This workshop introduces several cloud platforms from different countries, and i
 
 **Tuesday 24.5.2016**
 
-9-12 Presentations, hands-on and discussion
+9-12 Presentations and discussion
 
-- Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*, 30 min
+- Clouds & VM showcase from Australia: GVL as a platform for Bionformatics Training. *Andrew Lonie & Simon Gladman ([EMBL-ABR](https://www.embl-abr.org.au))*, [materials](/materials/GenomicsVirtualLab)
 
-- [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*, 30 min
+- [BTP](http://bib.oxfordjournals.org/content/early/2016/04/14/bib.bbw032.long): A cloud-based bioinformatics training platform. *Annette McGrath (CSIRO, Australia) & Jerico Revote (Monash eResearch Centre, Autralia)*, [materials](/materials/BTP)
 
-- [Vagrant](https://www.vagrantup.com/) presentation and hands-on session. *Pedro Fernandes (ELIXIR-PT)*, 40 min, [materials](/materials/Pedro_Fernandes)
+- [Vagrant](https://www.vagrantup.com/). *Pedro Fernandes (ELIXIR-PT)*, [materials](/materials/Pedro_Fernandes)
 
 12-13 Lunch
 
