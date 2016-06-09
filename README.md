@@ -1,4 +1,4 @@
-This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the Materials section. Presentation videos are available in [YouTube](https://www.youtube.com/playlist?list=PLD5XtevzF3yHDQZkvO_1kIYd7ZPlmY8j4).
+This repository contains material and programme for the workshop "Using clouds and VMs in bioinformatics training". The slides and hands-on instructions can be found in the speaker-specific folders in the [Materials](/materials/) section. Presentation videos are available in [YouTube](https://www.youtube.com/playlist?list=PLD5XtevzF3yHDQZkvO_1kIYd7ZPlmY8j4).
 
 ---
 # [Using clouds and VMs in bioinformatics training](https://csc.fi/web/training/-/cloud-vm-bioinformatics)
@@ -53,9 +53,9 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13-17 Presentations, hands-on and discussion
 
-- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, 45 min. [materials](/materials/stefano_nicotri)
+- [INFN cloud](http://www.recas-bari.it/index.php/en/) activities for bioinformatics in Italy. Demo of the INFN cloud. *Stefano Nicotri (INFN, ELIXIR-IT)*, [materials](/materials/stefano_nicotri)
 
-- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*. 2.5 h. [materials](/materials/IFBcloud)
+- [French Bioinformatics Cloud](http://www.france-bioinformatique.fr/en/cloud). *Christophe Blanchet and Victoria Dominguez (ELIXIR-FR)*, [materials](/materials/IFBcloud)
 
 **Wednesday 25.5.2016**
 
@@ -71,9 +71,9 @@ This workshop introduces several cloud platforms from different countries, and i
 
 13:30-17 Presentations, hands-ons and discussions
 
-- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, 2 h. [materials](/materials/Docker)
+- [Docker](https://www.docker.com/). *Abdulrahman Azab (ELIXIR-NO)*, [materials](/materials/Docker)
  
-- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, 1.5 h. [materials](/materials/NicolasDelhomme)
+- Using [Amazon Web Services (AWS)](https://aws.amazon.com/?nc2=h_lg) and Docker in training. *Nicolas Delhomme (Umeå Plant Science Center)*, [materials](/materials/NicolasDelhomme)
 
 
 
