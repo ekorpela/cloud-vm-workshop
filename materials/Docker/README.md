@@ -13,3 +13,5 @@ Useful Links
 * [Docker Galaxy](https://github.com/bgruening/docker-galaxy-stable)
 * [Creating Docker tools in Galaxy](https://wiki.galaxyproject.org/Admin/Tools/Docker)
 * [Auto-create tools as lightweight Docker images](https://github.com/mulled/mulled)
+
+[The session link on YouTube](https://www.youtube.com/watch?v=HecOPnp3qMQ&index=16&list=PLD5XtevzF3yHDQZkvO_1kIYd7ZPlmY8j4&t=4325s)
